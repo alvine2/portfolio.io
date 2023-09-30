@@ -90,7 +90,7 @@ section {
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: url(alvine.jpg);
+    background-image: url('https://github.com/alvine2/portfolio.io/blob/main/new.jpg?raw=true');
     background-size: cover;
     background-position: center;
     display: flex;
